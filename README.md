@@ -19,8 +19,8 @@ end page
 Tips按钮能够提供未来3步的走法，基于A*算法求最短路径  
 the tips button can provide the next 3 steps, which is based on the A* search algorithm   
 
-step显示的是A*算法求出的全局最优走法步数  
-the step interface shows the lowest steps in thie game based on the A* search algorithm   
+一开始step显示的是A*算法求出的全局最优走法步数，之后会随着你的操作不断减一    
+at first the step interface shows the lowest steps in thie game based on the A* search algorithm, then it will continuously minus 1 according to your operate     
 ![image](https://github.com/chenhuaizhen/Number/raw/master/image/3.jpg)
 
 # A* search algorithm
