@@ -29,7 +29,7 @@ the test website
 
 # A* search algorithm
 该程序维护一个步数表，其基本单位如下  
-in this time it maintain a step list, its unit row like  
+in this time it maintains a step list, its unit row like  
 ![image](https://github.com/chenhuaizhen/Puzzle/raw/master/image/4.jpg)
 
 该基本单位运行中会不断插入历史信息（运动方向）  
